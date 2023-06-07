@@ -1,0 +1,23 @@
+{
+	"filetype" : "C74Snapshot",
+	"version" : 2,
+	"minorversion" : 0,
+	"name" : "Opus[1]",
+	"origin" : "Opus.vstinfo",
+	"type" : "VST",
+	"subtype" : "Instrument",
+	"embed" : 0,
+	"snapshot" : 	{
+		"pluginname" : "Opus.vstinfo",
+		"plugindisplayname" : "Opus",
+		"pluginsavedname" : "C74_VST:/Opus",
+		"pluginsaveduniqueid" : 1165447024,
+		"version" : 1,
+		"isbank" : 0,
+		"isbase64" : 1,
+		"sliderorder" : [  ],
+		"slidervisibility" : [ 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 ],
+		"blob" : "1644.CMlaKA....fQPMDZ....ATzcOAG.AD......A........................................X.LA....PA...P..........7+++++GKh.......HvDE4zRJHLLPz6xrtHsfqx5BRAQcshKhoSjpIYJSl.hkd2cJUzcuO79LAtfMmACbBYOwQaxgPEjrQTEUTIi7dx8DLdaHiUPfbVg3UWAiiDXZpq2Tqr7gRD4U6sK7VLQwgzpRSEjw.5Dr+LkvtTO9BLZt2JS+vkqUvclJiK3oeOqKkEV6MI6VL++tVzaKAAl0b9gff72RxNdXT.y+NNd6gtKLO+AY0QeaDO...vdhH1a04FYyIhN6IxcoQFcnIhNwDCM1vhHnUVZmgFchnCN0HSerHRZtMGbkMFcuImH5XVXrMWYrHRZtMGbkMFcuIGUgIlH5.CKhjlayQmb00VYtQ2bhnCcxUWYrHxZkkmXuElbjIhNzIWckwhH28lbqMGbgMVYhnydhHjbuc2bkImH5rmHhI2a2MWYxQUXhIhNhPVXzElXgMWYhvhHzE1YBI2a2MWYxIhN6IBcgc1bhnyV6IxXrE1byIhNwvhHrE1bzMUYrU1XzUFYhnCL8wxdhLFagM2bhniLrHBagMGcSUFakMFckQlH5.SerrmHiwVXyMmH5TCKhvVXyQ2TkwVYiQWYjIhNvzGK6IxXrE1byIhN1vhHrE1bzMUYrU1XzUFYhnCL8wxdhLFagM2bhnyLrHBagMGcSUFakMFckQlH5.SerrmHiwVXyMmH5PCKhvVXyQ2TkwVYiQWYjIhNvzWWrHRZtMGcxUWak4FchnydhLFagM2bhniHI41bzIWcsUlazkjal8lHrHBcoQGakIhNhLEckkla2EVdfHjHrHhYowVYNEVakIhNhLEckkla2EVdfHjKkcWZhvhHk4FcoQWdhnSLvfyMxvhHvEFcnIhNh.UZg41ayARQt.BToElauMmHrHRZtMGcgwFagQWZu41TzEFckIhNxvhHjU1biIWZvQWZu4lH5HBTIEjSOMEHA4DQfTDSEMDURkzPf.URA4zSSAh3.RIHFI2asAxYxElajABboElauMGHz8FHiwVXyMWZiARYrU1XzIWZiAxZkkmXuElbjMGHyU2XnARXyABcnUFHCwVX1klakQGHg4FYfLDTsfCLr.Bcnk1bfL1arwVYiQWZu4FHuYlYkI2bfDFH2kFYkAhcgIWZkQWdf7lYf7Fbzk1atAhYuIGHgAxZkkmXuElbj0BZkElc4Axbu41Yf7lbfj2a0Axbo0FbrkGHtUVYjABcuABcxkGHuUGcfDFHhUmaigFHuYFHo41bzIWcsUlazMGHhUlYuIWYfL1as0VZzQWZtcFHz8FHu4VYtHBKhjlayQmb00VYtQmH5HhHrHxZkkmTg41YkIhNhHBKhv1agQ1TooWYhniHhvhHqUVdMklahniLwvhHqUVdMEFdhnSLvfCKhLWZ5UlH5.CKh.mbuQVciQWRjIhNhL1as4RYgMGc2U1bz4RLwHBKh.mbuQVciQWQtQWZzkmH5.CKh.mbuQVciQGUoQGakIhNhTzUfbzarkVXzglHrHhbgQWZtclH5.CKhL1as0VYtQmH5HhH8whHvwVX4AkbkYWZkcmH5Pmb0UFKh.mbkYWZkc2QgklahnCLtHSM1DiM2DCMyTCNyHSN2fSerHBYoM2ZBI2a2MWYxIhN6IBbx8FY0MFchniHhvhHl8FajUlbhnyV6IBbgQGZhniHhvhHyUFakMFckQVRzUVahnSKwzGK6IBbgQGZhniHhvhHyUFakMFckQVRzUVahnSKwzGK6IBbgQGZhniHhvhHyUFakMFckQVRzUVahnSKwzWWrHxbkwVYiQWYjAUXzglH5HhHrHBbrEVdPIWY1kVY2IhNzIWckwhHvIWY1kVY2cTXo4lH5.iKxTiMwXyMwPyL0fyLxjyM3zWerHRSogWYxIhNtUGarwhHPUlbl8lbsElaiUlH53VcrwFKh.EagkWYxIhN6IBcgIVRtQVY3IhNvzGKhLWYrU1XzUFYPE1YkIhNhHjbuc2bkImH8whHo41bzIWcsUlazM2PuwFagA2bkQlH5XVXrMWYrHBbx8lZkMFchnydhv1aiEFco8lahniHuT0bkI2buLTXsUlbu4lRuglayQ2atIRe8AVA...USkTU"
+	}
+
+}
