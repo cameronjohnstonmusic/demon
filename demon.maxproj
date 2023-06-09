@@ -2,14 +2,20 @@
 	"name" : "demon",
 	"version" : 1,
 	"creationdate" : 3764861121,
-	"modificationdate" : 3768943562,
-	"viewrect" : [ 1023.0, 220.0, 300.0, 500.0 ],
+	"modificationdate" : 3769028354,
+	"viewrect" : [ 1867.0, 486.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
 	"showdependencies" : 1,
 	"autolocalize" : 1,
 	"contents" : 	{
 		"patchers" : 		{
+			"demon_audio.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1,
+				"toplevel" : 1
+			}
+,
 			"bass_poly.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
@@ -23,12 +29,6 @@
 			"gliss_freeze.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
-			}
-,
-			"demon_audio.maxpat" : 			{
-				"kind" : "patcher",
-				"local" : 1,
-				"toplevel" : 1
 			}
 ,
 			"karplus_poly.maxpat" : 			{
@@ -53,6 +53,39 @@
 ,
 			"testing.maxpat" : 			{
 				"kind" : "patcher",
+				"local" : 1
+			}
+
+		}
+,
+		"media" : 		{
+			"pause.png" : 			{
+				"kind" : "imagefile",
+				"local" : 1
+			}
+,
+			"rewindDark.png" : 			{
+				"kind" : "imagefile",
+				"local" : 1
+			}
+,
+			"pauseDark.png" : 			{
+				"kind" : "imagefile",
+				"local" : 1
+			}
+,
+			"play.png" : 			{
+				"kind" : "imagefile",
+				"local" : 1
+			}
+,
+			"rewind.png" : 			{
+				"kind" : "imagefile",
+				"local" : 1
+			}
+,
+			"playDark.png" : 			{
+				"kind" : "imagefile",
 				"local" : 1
 			}
 
